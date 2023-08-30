@@ -9,3 +9,4 @@ Aqui se encuentran todos mis proyectos que no tengan que ver con la universidad 
 6. CSS Project: Proyecto de CSS por parte del curso de YouAccel Training en Udemy que volvi a hacer para recuperar practica en desarrollo web (01/2023)
 7. JS Project: Proyectos de JavaScript por parte del curso de YouAccel Training en Udemy "Web Development Masterclass" (02/2023)
 8. Cars Website: Pagina web de una venta de vehiculos con responsive design y animaciones (02/2023) 
+9. Generador de Puntos: Un pequeño programa en python que automatiza las busquedas en Bing para obtener puntos de Microsoft Rewards (08/2023)
