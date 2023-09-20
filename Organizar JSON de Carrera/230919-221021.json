@@ -1,0 +1,156 @@
+{
+    "track": "ks_laguna_seca-laguna_seca_osrw",
+    "number_of_sessions": 1,
+    "players": [
+        {
+            "name": "Andres Gutierrez",
+            "car": "ks_porsche_911_gt3_r_2016_gt3",
+            "skin": "42_monsterenergy_ultra"
+        },
+        {
+            "name": "James Calado",
+            "car": "ks_ferrari_488_gt3",
+            "skin": "lemans_2018_afcorse_51"
+        },
+        {
+            "name": "Sebastian Asch",
+            "car": "ks_mercedes_amg_gt3",
+            "skin": "muecke_motorsport_26"
+        },
+        {
+            "name": "Bart Blomme",
+            "car": "ks_audi_r8_lms_2016",
+            "skin": "gt3cup_89"
+        },
+        {
+            "name": "Francois Vilmot",
+            "car": "ks_lamborghini_huracan_gt3",
+            "skin": "racing_orange"
+        },
+        {
+            "name": "Osian Patterson",
+            "car": "ks_nissan_gtr_gt3",
+            "skin": "2t_95"
+        },
+        {
+            "name": "Mads Mikkelsen",
+            "car": "ks_mclaren_650S_gt3",
+            "skin": "liqui_moly_99"
+        },
+        {
+            "name": "Enej Loznar",
+            "car": "bmw_z4_gt3",
+            "skin": "walkenhorst_motorsport"
+        },
+        {
+            "name": "James March",
+            "car": "ks_mclaren_650S_gt3",
+            "skin": "gt3wt_199"
+        },
+        {
+            "name": "Franz Menzen",
+            "car": "bmw_z4_gt3",
+            "skin": "gt3cup_63"
+        },
+        {
+            "name": "Dario Boksic",
+            "car": "ks_mercedes_amg_gt3",
+            "skin": "gt3cup_58"
+        },
+        {
+            "name": "Volodymyr Gorban",
+            "car": "ks_audi_r8_lms_2016",
+            "skin": "11_racing_36"
+        },
+        {
+            "name": "Shigeru Haruna",
+            "car": "ks_nissan_gtr_gt3",
+            "skin": "f_takeishi racing 2"
+        },
+        {
+            "name": "Valentin Delon",
+            "car": "ks_lamborghini_huracan_gt3",
+            "skin": "racing_grey_matte"
+        },
+        {
+            "name": "Julian Beck",
+            "car": "ks_porsche_911_gt3_r_2016_gt3",
+            "skin": "28_monsterenergy_green"
+        },
+        {
+            "name": "Andrea Piccini",
+            "car": "ks_ferrari_488_gt3",
+            "skin": "2021_ironlynxwe_60"
+        },
+        {
+            "name": "Ferenc Rosicki",
+            "car": "ks_audi_r8_lms_2016",
+            "skin": "gt3cup_32"
+        },
+        {
+            "name": "Marc Miclotte",
+            "car": "ks_mclaren_650S_gt3",
+            "skin": "racing_64"
+        },
+        {
+            "name": "Michel Boueri",
+            "car": "ks_ferrari_488_gt3",
+            "skin": "20_racing_505"
+        },
+        {
+            "name": "Russell Gill",
+            "car": "ks_mercedes_amg_gt3",
+            "skin": "0_0fficial"
+        },
+        {
+            "name": "Henning Floene",
+            "car": "ks_porsche_911_gt3_r_2016_gt3",
+            "skin": "28_monsterenergy_green_4k"
+        },
+        {
+            "name": "Rick Grimes",
+            "car": "bmw_z4_gt3",
+            "skin": "gt3cup_tate_87"
+        },
+        {
+            "name": "Thomas Poujol",
+            "car": "ks_nissan_gtr_gt3",
+            "skin": "2t_97"
+        },
+        {
+            "name": "Miguel Mussano",
+            "car": "ks_lamborghini_huracan_gt3",
+            "skin": "racing_darkred"
+        },
+        {
+            "name": "Sigfrid Ziege",
+            "car": "ks_audi_r8_lms_2016",
+            "skin": "gt3cup_395_am"
+        },
+        {
+            "name": "Michele Blanc",
+            "car": "ks_nissan_gtr_gt3",
+            "skin": "nismo_89"
+        },
+        {
+            "name": "Hiroki Katsuta",
+            "car": "ks_lamborghini_huracan_gt3",
+            "skin": "racing_orange_matte"
+        },
+        {
+            "name": "Daniel Morad",
+            "car": "ks_mercedes_amg_gt3",
+            "skin": "2022_alegra_motorsport_28"
+        },
+        {
+            "name": "Steffen Huntemann",
+            "car": "bmw_z4_gt3",
+            "skin": "gt3cup_am_270"
+        },
+        {
+            "name": "Pavexon",
+            "car": "ks_mclaren_650S_gt3",
+            "skin": "pawexon"
+        }
+    ]
+}
